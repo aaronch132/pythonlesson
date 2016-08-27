@@ -1,0 +1,7 @@
+inst. (print) is used to print some words that havent existed
+orange - the command (action) to do sth (inst/keyword)
+greeeeen - the object that is being commanded by the commands
+blue - the result (output)
+red -  errors
+input = to get input from keyboard
+
