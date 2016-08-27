@@ -1,0 +1,13 @@
+An instruction is a basic command you give to a computer , usually to do a single very spesific thing
+cth.
+1. inbox
+2. outbox 
+3. bump up
+4. bump down 
+5. copy to
+6. copy from
+7. jump negative
+8. jump zero
+9. jump
+10. sub
+11. add
