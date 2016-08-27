@@ -11,3 +11,6 @@ cth.
 9. jump
 10. sub
 11. add
+
+program is a bunch of instructionsssssssssss.
+i will like programming
