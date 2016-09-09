@@ -1,0 +1,42 @@
+﻿PEMBAGIAN 
+kalau ada koma di soal 
+di jawaban ada koma juga
+cth 
+1.0/4 = .25
+kalau di soal gaada koma 
+di jawaban juga ga ada
+cth
+1/4=0
+10**-5=0.00001
+10**-4=0.0001
+10**-3=0.001
+10**-2=0.01
+10**-1=0.1
+10**0=1
+10**1=10
+10**2=100
+10**3=1000
+10**4=10000
+10**5=100000
+integers = bilangan bulat
+1,2,3,0,-1,-2,-3
+floats
+0.3,1.2,2.3,3.4,0.012,1.2e4,1.0
+exponentiation
+5**2 (5^2) (5²)
+modulus(remainder)
+5%4=1
+0%4=0
+2%5=2
+5%5=0
+e-notation
+3e4=30000
+e4=dikali 10**4 (10^4) (10⁴)
+4.5e-4
+0.00045
+4.5e4
+45000
+5.1234e3
+5123.4
+9.876e-2
+0.09876
