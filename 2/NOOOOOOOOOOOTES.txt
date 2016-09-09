@@ -1,0 +1,22 @@
+bab 2
+input : 
+command that has been received
+
+process :
+di """""process"""""
+
+output : 
+hasil yang keluar di layar
+
+memory :
+tempat menyimpan informasi
+
+cth string
+"blah"
+cth number 
+1234567890
+variable rules 
+ * gaboleh ada angka didepan variable
+cth 45th
+ * gaboleh ada "spasi"
+ * boleh ada underscore dan huruf dan angka "_" et "adfaefdsfs" et "1234567890"
