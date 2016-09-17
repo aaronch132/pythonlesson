@@ -1,0 +1,9 @@
+type = 'str'
+       'float'
+       'int'
+
+cara mendapatkan jenis variable
+type (x)
+
+cara konvert
+float/str/int (x)
